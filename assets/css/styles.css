@@ -1,0 +1,9 @@
+* {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.profileImage {
+    max-height: 40vh;
+    border-radius: 50%;
+}
